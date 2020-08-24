@@ -1,0 +1,30 @@
+{
+    "Router": [
+       {
+          "Source": "source1",
+          "Destination": "cust1"
+       },
+       {
+          "Source": "source2",
+          "Destination": "cust2"
+       },
+       {
+          "Source": "source3",
+          "Destination": "cust3"
+       },
+       {
+          "Source": "source4",
+          "Destination": "cust4"
+       },
+       {
+          "Source": "source5",
+          "Destination": "cust5"
+       },
+       {
+          "Source": "source6",
+          "Destination": "cust6"
+       }
+ 
+       
+    ]
+ }
